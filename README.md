@@ -151,6 +151,6 @@ A real-time weather application built with **Python** and **Streamlit**, powered
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/snehitha-katam-830651363/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333?style=flat-square&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/snehitha-katam-830651363/)])
 [![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:snehithakatam03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/snehithakatam14)
