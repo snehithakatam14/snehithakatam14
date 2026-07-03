@@ -19,7 +19,6 @@ I'm a developer with a strong interest in building things that matter — from i
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=white)
 
 **Frameworks & Libraries**
@@ -34,6 +33,7 @@ I'm a developer with a strong interest in building things that matter — from i
 **Databases, APIs & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-333?style=flat-square&logo=prisma&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-333?style=flat-square&logo=api&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-333?style=flat-square&logo=numpy&logoColor=white)
@@ -96,7 +96,7 @@ A deep learning-based medical image classification system that classifies brain 
 ![Streamlit](https://img.shields.io/badge/Streamlit-333?style=flat-square&logo=streamlit&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-333?style=flat-square&logo=opencv&logoColor=white)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=snehithakatam14&repo=Brain_Stroke_CT_Classification&theme=tokyonight&border_color=555&show_owner=false)](https://github.com/snehithakatam14/Brain_Stroke_CT_Classification)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=snehithakatam14&repo=Brain_Stroke_CT_Classification&theme=tokyonight&border_color=555&show_owner=false)
 
 ---
 
@@ -122,7 +122,7 @@ A full-stack expense management application built with **Next.js**, **TypeScript
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-333?style=flat-square&logoColor=white)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=snehithakatam14&repo=expense-tracker&theme=tokyonight&border_color=555&show_owner=false)](https://github.com/snehithakatam14/expense-tracker)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=snehithakatam14&repo=expense-tracker&theme=tokyonight&border_color=555&show_owner=false)
 
 ---
 
@@ -145,7 +145,7 @@ A real-time weather application built with **Python** and **Streamlit**, powered
 ![Streamlit](https://img.shields.io/badge/Streamlit-333?style=flat-square&logo=streamlit&logoColor=white)
 ![REST API](https://img.shields.io/badge/OpenWeather_API-333?style=flat-square&logoColor=white)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=snehithakatam14&repo=weather-insights-app&theme=tokyonight&border_color=555&show_owner=false)](https://github.com/snehithakatam14/weather-insights-app)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=snehithakatam14&repo=weather-insights-app&theme=tokyonight&border_color=555&show_owner=false)
 
 ---
 
