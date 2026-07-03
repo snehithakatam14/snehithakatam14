@@ -34,7 +34,6 @@ I'm a developer with a strong interest in building things that matter — from i
 
 <img height="20" src="https://img.shields.io/badge/PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=white" />
 <img height="20" src="https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/Prisma-333?style=flat-square&logo=prisma&logoColor=white" />
 <img height="20" src="https://img.shields.io/badge/REST_API-333?style=flat-square&logoColor=white" />
 <img height="20" src="https://img.shields.io/badge/NumPy-333?style=flat-square&logo=numpy&logoColor=white" />
 <img height="20" src="https://img.shields.io/badge/Pandas-333?style=flat-square&logo=pandas&logoColor=white" />
