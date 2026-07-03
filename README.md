@@ -18,26 +18,27 @@ I'm a developer with a strong interest in building things that matter — from i
 
 **Languages**
 
-<img height="20" src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=white" />
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white" /></a>
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=white" /></a>
 
 **Frameworks & Libraries**
 
-<img height="20" src="https://img.shields.io/badge/PyTorch-333?style=flat-square&logo=pytorch&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/Next.js-333?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/Streamlit-333?style=flat-square&logo=streamlit&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/OpenCV-333?style=flat-square&logo=opencv&logoColor=white" />
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/PyTorch-333?style=flat-square&logo=pytorch&logoColor=white" /></a>
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=white" /></a>
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/Next.js-333?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=white" /></a>
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/Streamlit-333?style=flat-square&logo=streamlit&logoColor=white" /></a>
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/OpenCV-333?style=flat-square&logo=opencv&logoColor=white" /></a>
 
 **Databases, APIs & Tools**
 
-<img height="20" src="https://img.shields.io/badge/PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/REST_API-333?style=flat-square&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/NumPy-333?style=flat-square&logo=numpy&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/Pandas-333?style=flat-square&logo=pandas&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=white" />
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=white" /></a>
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql&logoColor=white" /></a>
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/Prisma-333?style=flat-square&logo=prisma&logoColor=white" /></a>
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/REST_API-333?style=flat-square&logoColor=white" /></a>
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/NumPy-333?style=flat-square&logo=numpy&logoColor=white" /></a>
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/Pandas-333?style=flat-square&logo=pandas&logoColor=white" /></a>
+<a href="#tech-stack"><img height="20" src="https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=white" /></a>
 
 ---
 
@@ -63,12 +64,12 @@ Developed an end-to-end anomaly detection pipeline for high-dimensional telemetr
 - Evaluated the model using reconstruction-error-based detection techniques
 - Visualized anomaly patterns and analyzed model output to support reliable system monitoring
 
-<img height="20" src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/Scikit--learn-333?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/NumPy-333?style=flat-square&logo=numpy&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/Pandas-333?style=flat-square&logo=pandas&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/Matplotlib-333?style=flat-square&logo=matplotlib&logoColor=white" />
+<a href="#internship"><img height="20" src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white" /></a>
+<a href="#internship"><img height="20" src="https://img.shields.io/badge/TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=white" /></a>
+<a href="#internship"><img height="20" src="https://img.shields.io/badge/Scikit--learn-333?style=flat-square&logo=scikitlearn&logoColor=white" /></a>
+<a href="#internship"><img height="20" src="https://img.shields.io/badge/NumPy-333?style=flat-square&logo=numpy&logoColor=white" /></a>
+<a href="#internship"><img height="20" src="https://img.shields.io/badge/Pandas-333?style=flat-square&logo=pandas&logoColor=white" /></a>
+<a href="#internship"><img height="20" src="https://img.shields.io/badge/Matplotlib-333?style=flat-square&logo=matplotlib&logoColor=white" /></a>
 
 ---
 
@@ -90,10 +91,10 @@ A deep learning-based medical image classification system that classifies brain 
 - Grad-CAM heatmaps highlight the regions that influenced the model's prediction
 - Automated preprocessing, normalization, and model evaluation pipeline
 
-<img height="20" src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/PyTorch-333?style=flat-square&logo=pytorch&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/Streamlit-333?style=flat-square&logo=streamlit&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/OpenCV-333?style=flat-square&logo=opencv&logoColor=white" />
+<a href="#featured-projects"><img height="20" src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white" /></a>
+<a href="#featured-projects"><img height="20" src="https://img.shields.io/badge/PyTorch-333?style=flat-square&logo=pytorch&logoColor=white" /></a>
+<a href="#featured-projects"><img height="20" src="https://img.shields.io/badge/Streamlit-333?style=flat-square&logo=streamlit&logoColor=white" /></a>
+<a href="#featured-projects"><img height="20" src="https://img.shields.io/badge/OpenCV-333?style=flat-square&logo=opencv&logoColor=white" /></a>
 
 [![Brain Stroke Repo](https://github-readme-stats.vercel.app/api/pin/?username=snehithakatam14&repo=Brain_Stroke_CT_Classification&theme=tokyonight&border_color=555&show_owner=false)](https://github.com/snehithakatam14/Brain_Stroke_CT_Classification)
 
@@ -115,11 +116,11 @@ A full-stack expense management application built with **Next.js**, **TypeScript
 - Real-time currency conversion powered by an external REST API
 - Type-safe codebase with TypeScript end-to-end
 
-<img height="20" src="https://img.shields.io/badge/Next.js-333?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/Prisma-333?style=flat-square&logo=prisma&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/REST_API-333?style=flat-square&logoColor=white" />
+<a href="#featured-projects"><img height="20" src="https://img.shields.io/badge/Next.js-333?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
+<a href="#featured-projects"><img height="20" src="https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=white" /></a>
+<a href="#featured-projects"><img height="20" src="https://img.shields.io/badge/Prisma-333?style=flat-square&logo=prisma&logoColor=white" /></a>
+<a href="#featured-projects"><img height="20" src="https://img.shields.io/badge/PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=white" /></a>
+<a href="#featured-projects"><img height="20" src="https://img.shields.io/badge/REST_API-333?style=flat-square&logoColor=white" /></a>
 
 [![Expense Tracker Repo](https://github-readme-stats.vercel.app/api/pin/?username=snehithakatam14&repo=expense-tracker&theme=tokyonight&border_color=555&show_owner=false)](https://github.com/snehithakatam14/expense-tracker)
 
@@ -140,9 +141,9 @@ A real-time weather application built with **Python** and **Streamlit**, powered
 - Displays feels-like temperature, humidity, wind speed, and atmospheric pressure
 - Handles API responses and parses JSON data for live display
 
-<img height="20" src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/Streamlit-333?style=flat-square&logo=streamlit&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/OpenWeather_API-333?style=flat-square&logoColor=white" />
+<a href="#featured-projects"><img height="20" src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white" /></a>
+<a href="#featured-projects"><img height="20" src="https://img.shields.io/badge/Streamlit-333?style=flat-square&logo=streamlit&logoColor=white" /></a>
+<a href="#featured-projects"><img height="20" src="https://img.shields.io/badge/OpenWeather_API-333?style=flat-square&logoColor=white" /></a>
 
 [![Weather Insights Repo](https://github-readme-stats.vercel.app/api/pin/?username=snehithakatam14&repo=weather-insights-app&theme=tokyonight&border_color=555&show_owner=false)](https://github.com/snehithakatam14/weather-insights-app)
 
